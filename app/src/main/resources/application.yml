@@ -1,0 +1,4 @@
+com:
+  asg:
+    mail:
+      host: https://api.sendpulse.com
